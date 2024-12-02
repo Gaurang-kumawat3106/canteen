@@ -1,0 +1,69 @@
+/*HEADER START*/
+#navbarNav{
+ justify-content: space-evenly;
+margin-right: 4%;
+ font-weight: bolder;
+ font-size: large;
+}
+
+
+.navbar-brand{
+     margin-left: 3%;
+}
+
+/*HEADER END*/
+
+/*HOME START*/
+.card{
+    border: none;
+}
+
+.card-img-overlay{
+    color: grey;
+    margin-top: 15%;
+    margin-left: 3%;
+    line-height: 39%;
+
+}
+.card-title{
+    color: black;
+    margin-left: 3%;
+    margin-bottom: 0.8%;
+    font-weight: bolder;
+}
+
+.card-group{
+    background-color: rgb(168, 44, 72);
+}
+.padding-left{
+    padding-left: 9%;
+    padding-top: 1%;
+    background-color: rgb(168, 44, 72);
+    color: whitesmoke;
+}
+
+/* HOME END*/
+
+
+/* somthing start*/
+.margin-right{
+ margin-right: 3%;    /* for image*/
+ margin-top: 4%;
+}
+.card-body{
+    padding-left: 15%;   /* for text*/
+    margin-top: 15%;
+}
+
+
+/*SOMETHING END*/
+
+
+.center{
+    text-align: center;
+    margin-top: 5%;     /* explore foods heading*/
+    margin-bottom: 3%;
+}   
+
+  
+
